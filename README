@@ -1,0 +1,7 @@
+# Nix-CUDA
+
+## Running the Env
+
+```
+$ nix-shell -v
+```
