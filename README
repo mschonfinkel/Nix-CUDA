@@ -1,7 +1,7 @@
-# Nix-CUDA
+#Nix-CUDA
 
-## Running the Env
+##Running the envinronment
 
 ```
-$ nix-shell -v
+$ direnv allow
 ```
